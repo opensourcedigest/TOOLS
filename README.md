@@ -9,5 +9,6 @@ Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools 
 MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) and Unix commands (bash, ls, cat, sed, grep, awk, rsync, ...) to Windows desktop, in a single portable exe file which works out of the box.
 
 ## Resource Manager
-1 Q-Dir：适合于频繁在多目录之间切换的文件操作的资源管理器
+1 Q-Dir：
+适合于频繁在多目录之间切换的文件操作的资源管理器
 Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either installed or as a portable Windows program. 
