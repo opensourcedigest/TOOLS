@@ -7,7 +7,8 @@
   Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 
 ## Resource Manager
-1. Q-Dir: Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either installed or as a portable Windows program. 
+1. Q-Dir  
+  Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either installed or as a portable Windows program. 
 
 ## Writing Tools
 1. typora: An excellent Markdown Writing tools.
