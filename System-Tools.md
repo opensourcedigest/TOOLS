@@ -2,13 +2,13 @@
 
 ## Command Line Tools
 1. [ConEmu](https://conemu.github.io/)  **Free**  
-  As Windows console window enhancement (local terminal emulator), ConEmu presents multiple consoles and simple GUI applications (like PuTTY for example) as one customizable tabbed GUI window with various features.
-1. [MobaXterm](https://mobaxterm.mobatek.net/) 
+As Windows console window enhancement (local terminal emulator), ConEmu presents multiple consoles and simple GUI applications (like PuTTY for example) as one customizable tabbed GUI window with various features.
+1. [MobaXterm](https://mobaxterm.mobatek.net/)  **Free**  
   Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 
 ## Resource Manager
 1. [Q-Dir](http://www.q-dir.com/)  **Free**   
-  Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either installed or as a portable Windows program. 
+Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either installed or as a portable Windows program. 
 
 ## Writing Tools
 1. [typora](https://typora.io/)  **Free**  
