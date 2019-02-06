@@ -17,3 +17,7 @@ An excellent Markdown Writing tools.
 ## Picture Tools
 1. [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm)  **Commercial**  
 A powerful, lightweight, yet full-featured screen capture tool that allows you to easily capture and annotate anything on the screen including windows, objects, menus, full screen, rectangular/freehand regions and even scrolling windows/web pages. It also allows you to record screen activities and sound into video files.
+
+## Dictionary Software
+1. [GoldenDict](http://goldendict.org/)  **Free**  
+ A feature-rich dictionary lookup program.
