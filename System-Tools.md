@@ -3,8 +3,10 @@
 ## Command Line Tools
 1. [ConEmu](https://conemu.github.io/)  **Free**  
 As Windows console window enhancement (local terminal emulator), ConEmu presents multiple consoles and simple GUI applications (like PuTTY for example) as one customizable tabbed GUI window with various features.
-1. [MobaXterm](https://mobaxterm.mobatek.net/)  **Free**  
+1. [MobaXterm](https://mobaxterm.mobatek.net/)  **Home Edition - Free, Professional Version - Commercial **  
   Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+1. [cmder](https://cmder.net/) **Free**  
+  Portable console emulator for Windows
 
 ## Resource Manager
 1. [Q-Dir](http://www.q-dir.com/)  **Free**   
