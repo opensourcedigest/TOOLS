@@ -24,3 +24,9 @@ Pyqtdeploy is a tool for deploying PyQt applications. It supports deployment to 
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)  
 A curated list of awesome Flask resources and plugins
 
+
+## BlockChain
+
+[awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
+
+[Awesome Ethereum](https://github.com/chaozh/awesome-blockchain-cn/tree/master/Ethereum)
