@@ -7,7 +7,7 @@
 
 ### Cross platform in Python
 
-[kivy](https://kivy.org)
+[kivy](https://kivy.org)  
 Open source Python framework for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.
 
 [BeeWare](https://pybee.org/)  
@@ -21,6 +21,6 @@ Write your apps in Python and release them on iOS, Android, Windows, MacOS, Linu
 
 ### Flask - A microframework for Python.
 
-[awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+1 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 > A curated list of awesome Flask resources and plugins
 
