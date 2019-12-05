@@ -9,6 +9,5 @@ Write your apps in Python and release them on iOS, Android, Windows, MacOS, Linu
 [PyQt](https://riverbankcomputing.com/software/pyqt/intro)
 PyQt is a set of Python v2 and v3 bindings for The Qt Company's Qt application framework and runs on all platforms supported by Qt including Windows, OS X, Linux, iOS and Android. PyQt5 supports Qt v5. PyQt4 supports Qt v4 and will build against Qt v5. The bindings are implemented as a set of Python modules and contain over 1,000 classes.
 
-
 [Pyqtdeploy](https://www.riverbankcomputing.com/software/pyqtdeploy/intro)
 Pyqtdeploy is a tool for deploying PyQt applications. It supports deployment to desktop platforms (Linux, Windows and OS X) and to mobile platforms (iOS and Android).
