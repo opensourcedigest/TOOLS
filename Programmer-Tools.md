@@ -6,7 +6,8 @@
 [awesome-python](https://awesome-python.com/)  
 A curated list of awesome Python frameworks, libraries, software and resources.
 
-### [Python实例手册](https://github.com/liquanzhou/ops_doc/blob/master/python%E5%AE%9E%E4%BE%8B%E6%89%8B%E5%86%8C.py)
+### Python实例手册 
+[Python实例手册](https://github.com/liquanzhou/ops_doc/blob/master/python%E5%AE%9E%E4%BE%8B%E6%89%8B%E5%86%8C.py)
 
 ### Cross platform in Python
 
