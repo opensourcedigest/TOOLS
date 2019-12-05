@@ -7,6 +7,7 @@ As Windows console window enhancement (local terminal emulator), ConEmu presents
   Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 1. [cmder](https://cmder.net/) **Free**  
   Portable console emulator for Windows
+1. [Shell实例手册](https://github.com/liquanzhou/ops_doc/blob/master/shell%E5%AE%9E%E4%BE%8B%E6%89%8B%E5%86%8C.sh)
 
 ## Resource Manager
 1. [Q-Dir](http://www.q-dir.com/)  **Free**   
