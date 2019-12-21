@@ -28,6 +28,8 @@ Pyqtdeploy is a tool for deploying PyQt applications. It supports deployment to 
 [awesome-flask](https://github.com/humiaozuzu/awesome-flask)  
 A curated list of awesome Flask resources and plugins
 
+[Postman](https://www.getpostman.com/downloads/)  
+Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 
 ## BlockChain
 
