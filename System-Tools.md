@@ -15,7 +15,8 @@ Q-Dir (the Quad Explorer) makes your files and folders easy to manage, either in
 
 ## Writing Tools
 1. [typora](https://typora.io/)  **Free**  
-An excellent Markdown Writing tools.
+An excellent Markdown Writing tools.   
+技巧：[设置标题自动编号](https://github.com/opensourcedigest/TOOLS/blob/master/System-Tools/typroa_add_number.md)
 
 ## Picture Tools
 1. [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm)  **Commercial**  
